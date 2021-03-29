@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Tohuwabohu
+
+[Download .dmg](https://github.com/slashers-cornelltech/tohuwabohu/releases/download/v0.1.0/tohuwabohu-0.1.0.dmg)   
+[Download .zip](https://github.com/slashers-cornelltech/tohuwabohu/releases/download/v0.1.0/tohuwabohu-0.1.0-mac.zip)  
 
 You can use the [editor on GitHub](https://github.com/slashers-cornelltech/slashers-cornelltech.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
